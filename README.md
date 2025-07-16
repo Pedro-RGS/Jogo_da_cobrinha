@@ -1,7 +1,5 @@
-# Jogo da cobrinha - Primeiro teste do git e github
-Esse repositório foi um dos meus primeiros e surgiu de um teste do git e do github,
-além de conter uma réplica do jogo "Snake" feito em python e se utilizando da 
-biblioteca "Pygame". Esse jogo foi um dos meus primeiros "projetos"
-no mundo da programação
+# Jogo da Cobrinha (Snake Game)
 
-espero que goste :)
+Jogo da Cobrinha is a copy of original Snake Game made in 1976 and that is very common in smartphones to the present.
+This was my first project and was developed using Python and Pygame module.
+
